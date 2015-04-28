@@ -5,4 +5,15 @@
        ***       *           *       ***       *****         *         *****
                                                                         ***
                                                                          *
-3. 
+3. do-while loop - do first check later
+void checkDoWhile() {
+	printf("This do-while loop wants to terminate loop when i equals 5,\n");
+    printf("but we assign 5 to i outside the do-while loop and try add 1 to i\n");
+    printf("Let's see what happening\n");
+	int i = 5;
+	do{
+		i = i + 1;
+	}while(i<5);
+	printf("\t\tAfter doing loop, i = %d\n", i);
+	printf("The loop work!!");
+}

@@ -14,18 +14,6 @@ void loopInstruction() {
 	printf("3 using do while loop\n");
 }
 
-void checkDoWhile() {
-	printf("This do-while loop wants to terminate loop when i equals 5,\n");
-    printf("but we assign 5 to i outside the do-while loop and try add 1 to i\n");
-    printf("Let's see what happening\n");
-	int i = 5;
-	do{
-		i = i + 1;
-	}while(i<5);
-	printf("\t\tAfter doing loop, i = %d\n", i);
-	printf("The loop work!!");
-}
-
 int main(int argc, char *argv[]) {
 	int loopOpt, exOpt;
     char c;
@@ -62,10 +50,8 @@ int main(int argc, char *argv[]) {
 				default:
 					printf("Invalid Option!!");
 					break;
-
 			}
 			
 		}
 	}
 }
-
