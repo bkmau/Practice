@@ -1,35 +1,8 @@
-1.
-*
-**
-***
-
-2.
-***
-**
-*
-
-3.
-***
- **
-  *
-4.
-  *
- **
-***
-
-5.
-  *
- ***
-*****
-
-6.
-*****
- ***
-  *
-
-7.
-  *
- ***
-*****
- ***
-  *
+1. Why use static function REF:變數、函式可視範圍（static 與 extern）http://openhome.cc/Gossip/CGossip/Scope.html
+2. Here is star bitmap I want to print out
+   (1) *     (2) ***   (3) ***   (4)   *   (5)   *     (6) *****   (7)   *
+       **        **         **        **        ***         ***         ***
+       ***       *           *       ***       *****         *         *****
+                                                                        ***
+                                                                         *
+3. 
