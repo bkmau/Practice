@@ -1,0 +1,9 @@
+C:\Users\Ben Mau\Desktop\CSLearn\UserCheck\UserCheck\bin\Debug\UserCheck.exe.config
+C:\Users\Ben Mau\Desktop\CSLearn\UserCheck\UserCheck\bin\Debug\UserCheck.exe
+C:\Users\Ben Mau\Desktop\CSLearn\UserCheck\UserCheck\bin\Debug\UserCheck.pdb
+C:\Users\Ben Mau\Desktop\CSLearn\UserCheck\UserCheck\obj\Debug\UserCheck.csprojResolveAssemblyReference.cache
+C:\Users\Ben Mau\Desktop\CSLearn\UserCheck\UserCheck\obj\Debug\UserCheck.Form1.resources
+C:\Users\Ben Mau\Desktop\CSLearn\UserCheck\UserCheck\obj\Debug\UserCheck.Properties.Resources.resources
+C:\Users\Ben Mau\Desktop\CSLearn\UserCheck\UserCheck\obj\Debug\UserCheck.csproj.GenerateResource.Cache
+C:\Users\Ben Mau\Desktop\CSLearn\UserCheck\UserCheck\obj\Debug\UserCheck.exe
+C:\Users\Ben Mau\Desktop\CSLearn\UserCheck\UserCheck\obj\Debug\UserCheck.pdb

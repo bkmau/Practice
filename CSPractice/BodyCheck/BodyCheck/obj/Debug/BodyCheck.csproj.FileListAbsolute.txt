@@ -1,0 +1,9 @@
+C:\Users\Ben Mau\Desktop\CSLearn\BodyCheck\BodyCheck\bin\Debug\BodyCheck.exe.config
+C:\Users\Ben Mau\Desktop\CSLearn\BodyCheck\BodyCheck\bin\Debug\BodyCheck.exe
+C:\Users\Ben Mau\Desktop\CSLearn\BodyCheck\BodyCheck\bin\Debug\BodyCheck.pdb
+C:\Users\Ben Mau\Desktop\CSLearn\BodyCheck\BodyCheck\obj\Debug\BodyCheck.csprojResolveAssemblyReference.cache
+C:\Users\Ben Mau\Desktop\CSLearn\BodyCheck\BodyCheck\obj\Debug\BodyCheck.Form1.resources
+C:\Users\Ben Mau\Desktop\CSLearn\BodyCheck\BodyCheck\obj\Debug\BodyCheck.Properties.Resources.resources
+C:\Users\Ben Mau\Desktop\CSLearn\BodyCheck\BodyCheck\obj\Debug\BodyCheck.csproj.GenerateResource.Cache
+C:\Users\Ben Mau\Desktop\CSLearn\BodyCheck\BodyCheck\obj\Debug\BodyCheck.exe
+C:\Users\Ben Mau\Desktop\CSLearn\BodyCheck\BodyCheck\obj\Debug\BodyCheck.pdb

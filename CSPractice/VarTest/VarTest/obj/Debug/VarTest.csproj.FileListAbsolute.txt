@@ -1,0 +1,9 @@
+C:\Users\Ben Mau\Desktop\CSLearn\VarTest\VarTest\bin\Debug\VarTest.exe.config
+C:\Users\Ben Mau\Desktop\CSLearn\VarTest\VarTest\bin\Debug\VarTest.exe
+C:\Users\Ben Mau\Desktop\CSLearn\VarTest\VarTest\bin\Debug\VarTest.pdb
+C:\Users\Ben Mau\Desktop\CSLearn\VarTest\VarTest\obj\Debug\VarTest.csprojResolveAssemblyReference.cache
+C:\Users\Ben Mau\Desktop\CSLearn\VarTest\VarTest\obj\Debug\VarTest.Form1.resources
+C:\Users\Ben Mau\Desktop\CSLearn\VarTest\VarTest\obj\Debug\VarTest.Properties.Resources.resources
+C:\Users\Ben Mau\Desktop\CSLearn\VarTest\VarTest\obj\Debug\VarTest.csproj.GenerateResource.Cache
+C:\Users\Ben Mau\Desktop\CSLearn\VarTest\VarTest\obj\Debug\VarTest.exe
+C:\Users\Ben Mau\Desktop\CSLearn\VarTest\VarTest\obj\Debug\VarTest.pdb

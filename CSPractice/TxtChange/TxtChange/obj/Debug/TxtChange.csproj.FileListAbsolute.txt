@@ -1,0 +1,9 @@
+C:\Users\Ben Mau\Desktop\CSLearn\TxtChange\TxtChange\bin\Debug\TxtChange.exe.config
+C:\Users\Ben Mau\Desktop\CSLearn\TxtChange\TxtChange\bin\Debug\TxtChange.exe
+C:\Users\Ben Mau\Desktop\CSLearn\TxtChange\TxtChange\bin\Debug\TxtChange.pdb
+C:\Users\Ben Mau\Desktop\CSLearn\TxtChange\TxtChange\obj\Debug\TxtChange.csprojResolveAssemblyReference.cache
+C:\Users\Ben Mau\Desktop\CSLearn\TxtChange\TxtChange\obj\Debug\TxtChange.Form1.resources
+C:\Users\Ben Mau\Desktop\CSLearn\TxtChange\TxtChange\obj\Debug\TxtChange.Properties.Resources.resources
+C:\Users\Ben Mau\Desktop\CSLearn\TxtChange\TxtChange\obj\Debug\TxtChange.csproj.GenerateResource.Cache
+C:\Users\Ben Mau\Desktop\CSLearn\TxtChange\TxtChange\obj\Debug\TxtChange.exe
+C:\Users\Ben Mau\Desktop\CSLearn\TxtChange\TxtChange\obj\Debug\TxtChange.pdb

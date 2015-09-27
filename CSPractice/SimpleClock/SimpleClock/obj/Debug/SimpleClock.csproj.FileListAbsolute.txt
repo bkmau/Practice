@@ -1,0 +1,9 @@
+C:\Users\Ben Mau\Desktop\CSLearn\SimpleClock\SimpleClock\bin\Debug\SimpleClock.exe.config
+C:\Users\Ben Mau\Desktop\CSLearn\SimpleClock\SimpleClock\bin\Debug\SimpleClock.exe
+C:\Users\Ben Mau\Desktop\CSLearn\SimpleClock\SimpleClock\bin\Debug\SimpleClock.pdb
+C:\Users\Ben Mau\Desktop\CSLearn\SimpleClock\SimpleClock\obj\Debug\SimpleClock.csprojResolveAssemblyReference.cache
+C:\Users\Ben Mau\Desktop\CSLearn\SimpleClock\SimpleClock\obj\Debug\SimpleClock.MainF.resources
+C:\Users\Ben Mau\Desktop\CSLearn\SimpleClock\SimpleClock\obj\Debug\SimpleClock.Properties.Resources.resources
+C:\Users\Ben Mau\Desktop\CSLearn\SimpleClock\SimpleClock\obj\Debug\SimpleClock.csproj.GenerateResource.Cache
+C:\Users\Ben Mau\Desktop\CSLearn\SimpleClock\SimpleClock\obj\Debug\SimpleClock.exe
+C:\Users\Ben Mau\Desktop\CSLearn\SimpleClock\SimpleClock\obj\Debug\SimpleClock.pdb

@@ -1,0 +1,9 @@
+C:\Users\Ben Mau\Desktop\CSLearn\Order\Order\bin\Debug\Order.exe.config
+C:\Users\Ben Mau\Desktop\CSLearn\Order\Order\bin\Debug\Order.exe
+C:\Users\Ben Mau\Desktop\CSLearn\Order\Order\bin\Debug\Order.pdb
+C:\Users\Ben Mau\Desktop\CSLearn\Order\Order\obj\Debug\Order.csprojResolveAssemblyReference.cache
+C:\Users\Ben Mau\Desktop\CSLearn\Order\Order\obj\Debug\Order.Form1.resources
+C:\Users\Ben Mau\Desktop\CSLearn\Order\Order\obj\Debug\Order.Properties.Resources.resources
+C:\Users\Ben Mau\Desktop\CSLearn\Order\Order\obj\Debug\Order.csproj.GenerateResource.Cache
+C:\Users\Ben Mau\Desktop\CSLearn\Order\Order\obj\Debug\Order.exe
+C:\Users\Ben Mau\Desktop\CSLearn\Order\Order\obj\Debug\Order.pdb

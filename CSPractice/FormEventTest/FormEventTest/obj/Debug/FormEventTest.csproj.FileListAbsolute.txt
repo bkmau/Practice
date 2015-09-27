@@ -1,0 +1,9 @@
+C:\Users\Ben Mau\Desktop\CSLearn\FormEventTest\FormEventTest\bin\Debug\FormEventTest.exe.config
+C:\Users\Ben Mau\Desktop\CSLearn\FormEventTest\FormEventTest\bin\Debug\FormEventTest.exe
+C:\Users\Ben Mau\Desktop\CSLearn\FormEventTest\FormEventTest\bin\Debug\FormEventTest.pdb
+C:\Users\Ben Mau\Desktop\CSLearn\FormEventTest\FormEventTest\obj\Debug\FormEventTest.csprojResolveAssemblyReference.cache
+C:\Users\Ben Mau\Desktop\CSLearn\FormEventTest\FormEventTest\obj\Debug\FormEventTest.Form1.resources
+C:\Users\Ben Mau\Desktop\CSLearn\FormEventTest\FormEventTest\obj\Debug\FormEventTest.Properties.Resources.resources
+C:\Users\Ben Mau\Desktop\CSLearn\FormEventTest\FormEventTest\obj\Debug\FormEventTest.csproj.GenerateResource.Cache
+C:\Users\Ben Mau\Desktop\CSLearn\FormEventTest\FormEventTest\obj\Debug\FormEventTest.exe
+C:\Users\Ben Mau\Desktop\CSLearn\FormEventTest\FormEventTest\obj\Debug\FormEventTest.pdb

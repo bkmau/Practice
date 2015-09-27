@@ -1,0 +1,9 @@
+C:\Users\Ben Mau\Desktop\CSLearn\Tax\Tax\bin\Debug\Tax.exe.config
+C:\Users\Ben Mau\Desktop\CSLearn\Tax\Tax\bin\Debug\Tax.exe
+C:\Users\Ben Mau\Desktop\CSLearn\Tax\Tax\bin\Debug\Tax.pdb
+C:\Users\Ben Mau\Desktop\CSLearn\Tax\Tax\obj\Debug\Tax.csprojResolveAssemblyReference.cache
+C:\Users\Ben Mau\Desktop\CSLearn\Tax\Tax\obj\Debug\Tax.Form1.resources
+C:\Users\Ben Mau\Desktop\CSLearn\Tax\Tax\obj\Debug\Tax.Properties.Resources.resources
+C:\Users\Ben Mau\Desktop\CSLearn\Tax\Tax\obj\Debug\Tax.csproj.GenerateResource.Cache
+C:\Users\Ben Mau\Desktop\CSLearn\Tax\Tax\obj\Debug\Tax.exe
+C:\Users\Ben Mau\Desktop\CSLearn\Tax\Tax\obj\Debug\Tax.pdb

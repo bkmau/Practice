@@ -1,0 +1,9 @@
+C:\Users\Ben Mau\Desktop\CSLearn\GuessNo\GuessNo\bin\Debug\GuessNo.exe.config
+C:\Users\Ben Mau\Desktop\CSLearn\GuessNo\GuessNo\bin\Debug\GuessNo.exe
+C:\Users\Ben Mau\Desktop\CSLearn\GuessNo\GuessNo\bin\Debug\GuessNo.pdb
+C:\Users\Ben Mau\Desktop\CSLearn\GuessNo\GuessNo\obj\Debug\GuessNo.csprojResolveAssemblyReference.cache
+C:\Users\Ben Mau\Desktop\CSLearn\GuessNo\GuessNo\obj\Debug\GuessNo.Form1.resources
+C:\Users\Ben Mau\Desktop\CSLearn\GuessNo\GuessNo\obj\Debug\GuessNo.Properties.Resources.resources
+C:\Users\Ben Mau\Desktop\CSLearn\GuessNo\GuessNo\obj\Debug\GuessNo.csproj.GenerateResource.Cache
+C:\Users\Ben Mau\Desktop\CSLearn\GuessNo\GuessNo\obj\Debug\GuessNo.exe
+C:\Users\Ben Mau\Desktop\CSLearn\GuessNo\GuessNo\obj\Debug\GuessNo.pdb

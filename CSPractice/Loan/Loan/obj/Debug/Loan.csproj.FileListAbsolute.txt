@@ -1,0 +1,9 @@
+C:\Users\Ben Mau\Desktop\CSLearn\Loan\Loan\bin\Debug\Loan.exe.config
+C:\Users\Ben Mau\Desktop\CSLearn\Loan\Loan\bin\Debug\Loan.exe
+C:\Users\Ben Mau\Desktop\CSLearn\Loan\Loan\bin\Debug\Loan.pdb
+C:\Users\Ben Mau\Desktop\CSLearn\Loan\Loan\obj\Debug\Loan.csprojResolveAssemblyReference.cache
+C:\Users\Ben Mau\Desktop\CSLearn\Loan\Loan\obj\Debug\Loan.Form1.resources
+C:\Users\Ben Mau\Desktop\CSLearn\Loan\Loan\obj\Debug\Loan.Properties.Resources.resources
+C:\Users\Ben Mau\Desktop\CSLearn\Loan\Loan\obj\Debug\Loan.csproj.GenerateResource.Cache
+C:\Users\Ben Mau\Desktop\CSLearn\Loan\Loan\obj\Debug\Loan.exe
+C:\Users\Ben Mau\Desktop\CSLearn\Loan\Loan\obj\Debug\Loan.pdb
