@@ -16,3 +16,12 @@ C:\Users\Ben Mau\Desktop\CSPractice\Poker\Poker\obj\Debug\Poker.Properties.Resou
 C:\Users\Ben Mau\Desktop\CSPractice\Poker\Poker\obj\Debug\Poker.csproj.GenerateResource.Cache
 C:\Users\Ben Mau\Desktop\CSPractice\Poker\Poker\bin\Debug\Poker.exe
 C:\Users\Ben Mau\Desktop\CSPractice\Poker\Poker\bin\Debug\Poker.pdb
+C:\bkmau Repo\Example\CSPractice\Poker\Poker\bin\Debug\Poker.exe.config
+C:\bkmau Repo\Example\CSPractice\Poker\Poker\obj\Debug\Poker.exe
+C:\bkmau Repo\Example\CSPractice\Poker\Poker\obj\Debug\Poker.pdb
+C:\bkmau Repo\Example\CSPractice\Poker\Poker\bin\Debug\Poker.exe
+C:\bkmau Repo\Example\CSPractice\Poker\Poker\bin\Debug\Poker.pdb
+C:\bkmau Repo\Example\CSPractice\Poker\Poker\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+C:\bkmau Repo\Example\CSPractice\Poker\Poker\obj\Debug\Poker.Form1.resources
+C:\bkmau Repo\Example\CSPractice\Poker\Poker\obj\Debug\Poker.Properties.Resources.resources
+C:\bkmau Repo\Example\CSPractice\Poker\Poker\obj\Debug\Poker.csproj.GenerateResource.Cache

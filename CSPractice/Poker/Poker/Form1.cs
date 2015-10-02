@@ -14,9 +14,11 @@ namespace Poker
 {
     public partial class Form1 : Form
     {
-        int numA, numB, suitsA, suitsB;
-        Random r;
-        string cardBK;
+        private Random RanPoint, RanSuit;
+        private int PointA, SuitA;
+        private int PointB, SuitB;
+        private string CardA, CardB;
+
         public Form1()
         {
             InitializeComponent();
@@ -24,81 +26,138 @@ namespace Poker
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            cardBK = @"Poker\Pokerbk.jpg";
-            HideCard();
-
+            CardA = @"Poker\Pokerbk.jpg";
+            CardB = @"Poker\Pokerbk.jpg";
+            CardDisplayer();
+            RanPoint = new Random();
+            RanSuit = new Random();
             lbl2.Text = "按洗牌鈕開始遊戲";
-            r = new Random();
-        }
-
-        private string GetSuits()
-        {
-            int suits = r.Next(1, 4);
-            int num = r.Next(1, 13);
-
-            switch (suits)
-            {
-                case 1:
-                    return (num + "s");
-                case 2:
-                    return (num + "s");
-                case 3:
-                    return (num + "s");
-                case 4:
-                    return (num + "s");
-                default:
-                    return "Error";
-            }
-        }
-
-        private void GetPoint()
-        {
-            
-            suitsB = r.Next(1, 4);
-            numB = r.Next(1, 13);
-        }
-
-        private void HideCard()
-        {
-            pbA.Enabled = false;
-            pbB.Enabled = false;
-            try
-            {
-                pbA.Image = new Bitmap(cardBK);
-                pbB.Image = new Bitmap(cardBK);
-            }
-            catch
-            {
-                MessageBox.Show("Poker image not exit\r\nPath:" + cardBK);
-            }
-        }
-
-        private void ShowCard(int suit, int point)
-        {
         }
 
         private void btnOK_Click(object sender, EventArgs e)
         {
-            HideCard();
+            CardA = @"Poker\Pokerbk.jpg";
+            CardB = @"Poker\Pokerbk.jpg";
+            CardDisplayer();
             btnOK.Enabled = false;
-            GetSuits();
-            GetPoint();
+            GetSuit();
+            pbA.Enabled = true;
+            pbB.Enabled = true;
             lbl2.Text = "請在撲克牌上按一下選取 ..";
         }
 
         private void pbA_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("hello, game a");
+            CardDisplayer();
+            if ((PointA > PointB) || ((PointA == PointB) && (SuitA > SuitB)))
+            {
+                lbl2.Text = " 你贏了 ! 按洗牌鈕 重玩 ....";
+            }
+            else if ((PointA < PointB) || ((PointA == PointB) && (SuitA < SuitB)))
+            {
+                lbl2.Text = " 你輸了 !  按洗牌鈕 重玩 ....";
+            }
+            else if ((PointA == PointB) && (SuitA == SuitB))
+            {
+                lbl2.Text = " 平 手 !  按洗牌鈕 重玩 ....";
+            }
+            btnOK.Enabled = true;
         }
 
         private void pbB_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("hello, game b");
+            CardDisplayer();
+            if ((PointA < PointB) || ((PointA == PointB) && (SuitA < SuitB)))
+            {
+                lbl2.Text = " 你贏了 ! 按洗牌鈕 重玩 ....";
+            }
+            else if ((PointA > PointB) || ((PointA == PointB) && (SuitA > SuitB)))
+            {
+                lbl2.Text = " 你輸了 !  按洗牌鈕 重玩 ....";
+            }
+            else if ((PointA == PointB) && (SuitA == SuitB))
+            {
+                lbl2.Text = " 平 手 !  按洗牌鈕 重玩 ....";
+            }
+            btnOK.Enabled = true;
         }
 
         private void btnEnd_Click(object sender, EventArgs e)
         {
             Application.Exit();
+        }
+
+        private void CardDisplayer()
+        {
+            pbA.Enabled = false;
+            try
+            {
+                pbA.Image = new Bitmap(CardA);
+            }
+            catch (Exception e)
+            {
+                MessageBox.Show("Poker image not exit!!\r\nPath:" +
+                    CardA + "\r\n" + e.StackTrace);
+                return;
+            }
+
+            pbB.Enabled = false;
+            try
+            {
+                pbB.Image = new Bitmap(CardB);
+            }
+            catch (Exception e)
+            {
+                MessageBox.Show("Poker image not exit!!\r\nPath:" +
+                    CardB + "\r\n" + e.StackTrace);
+                return;
+            }
+        }
+
+        private void GetSuit()
+        {
+            PointA = RanPoint.Next(1,13);
+            SuitA = RanSuit.Next(1,4);
+
+            switch (SuitA)
+            {
+                case 1:
+                    CardA = @"Poker\" + PointA + "c.png";
+                    break;
+                case 2:
+                    CardA = @"Poker\" + PointA + "d.png";
+                    break;
+                case 3:
+                    CardA = @"Poker\" + PointA + "h.png";
+                    break;
+                case 4:
+                    CardA = @"Poker\" + PointA + "s.png";
+                    break;
+                default:
+                    CardA = "Error";
+                    return;
+            }
+
+            PointB = RanPoint.Next(1, 13);
+            SuitB = RanSuit.Next(1, 4);
+            switch (SuitB)
+            {
+                case 1:
+                    CardB = @"Poker\" + PointB + "c.png";
+                    break;
+                case 2:
+                    CardB = @"Poker\" + PointB + "d.png";
+                    break;
+                case 3:
+                    CardB = @"Poker\" + PointB + "h.png";
+                    break;
+                case 4:
+                    CardB = @"Poker\" + PointB + "s.png";
+                    break;
+                default:
+                    CardB = "Error";
+                    return;
+            }
         }
     }
 }
