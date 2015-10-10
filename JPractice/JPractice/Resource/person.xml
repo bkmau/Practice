@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<person>
+		<name>Pat Niemeyer</name>
+		<address>
+			<city>St. Louis</city>
+			<street>Java St.</street>
+			<number>123456</number>
+			<zip>654321</zip>
+		</address>
+		<age>42</age>
+	</person>
+</root>
