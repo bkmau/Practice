@@ -1,0 +1,14 @@
+package exercise_09;
+
+public class TestThread {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Running1 dog = new Running1("doggy");
+		Running1 cat = new Running1("kitty");
+		dog.Run();
+		cat.Run();
+		
+	}
+
+}

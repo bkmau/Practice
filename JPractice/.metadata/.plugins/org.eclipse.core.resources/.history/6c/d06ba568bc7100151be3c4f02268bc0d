@@ -1,0 +1,13 @@
+package exercise_09;
+
+public class TestThread {
+
+	public static void main(String[] args) {
+		Runner1 dog = new Runner1("doggy");
+		Runner1 cat = new Runner1("kitty");
+		dog.Run();
+		cat.Run();
+		
+	}
+
+}

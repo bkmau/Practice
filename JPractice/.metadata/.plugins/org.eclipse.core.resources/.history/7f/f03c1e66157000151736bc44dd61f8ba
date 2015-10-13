@@ -1,0 +1,18 @@
+package exercise_04;
+
+public class Stack<T> {
+	private Node<T> top;
+	
+	public void push(Node<T> node) {
+		node.setNext(node);
+		top = node;
+	}
+	
+	public T pop() {
+		T result = null;
+		
+		
+		
+		return result;
+	}
+}

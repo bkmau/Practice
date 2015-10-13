@@ -1,0 +1,11 @@
+package exercise_09;
+
+public class Runner3 implements Runnable {
+
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+
+	}
+
+}
