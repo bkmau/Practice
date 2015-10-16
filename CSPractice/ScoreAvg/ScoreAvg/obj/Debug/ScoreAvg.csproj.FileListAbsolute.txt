@@ -1,0 +1,9 @@
+C:\bkmau Repo\Example\CSPractice\ScoreAvg\ScoreAvg\bin\Debug\ScoreAvg.exe.config
+C:\bkmau Repo\Example\CSPractice\ScoreAvg\ScoreAvg\bin\Debug\ScoreAvg.exe
+C:\bkmau Repo\Example\CSPractice\ScoreAvg\ScoreAvg\bin\Debug\ScoreAvg.pdb
+C:\bkmau Repo\Example\CSPractice\ScoreAvg\ScoreAvg\obj\Debug\ScoreAvg.csprojResolveAssemblyReference.cache
+C:\bkmau Repo\Example\CSPractice\ScoreAvg\ScoreAvg\obj\Debug\ScoreAvg.Form1.resources
+C:\bkmau Repo\Example\CSPractice\ScoreAvg\ScoreAvg\obj\Debug\ScoreAvg.Properties.Resources.resources
+C:\bkmau Repo\Example\CSPractice\ScoreAvg\ScoreAvg\obj\Debug\ScoreAvg.csproj.GenerateResource.Cache
+C:\bkmau Repo\Example\CSPractice\ScoreAvg\ScoreAvg\obj\Debug\ScoreAvg.exe
+C:\bkmau Repo\Example\CSPractice\ScoreAvg\ScoreAvg\obj\Debug\ScoreAvg.pdb
