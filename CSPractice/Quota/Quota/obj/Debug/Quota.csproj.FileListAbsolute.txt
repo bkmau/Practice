@@ -1,0 +1,9 @@
+C:\bkmau Repo\Example\CSPractice\Quota\Quota\bin\Debug\Quota.exe.config
+C:\bkmau Repo\Example\CSPractice\Quota\Quota\bin\Debug\Quota.exe
+C:\bkmau Repo\Example\CSPractice\Quota\Quota\bin\Debug\Quota.pdb
+C:\bkmau Repo\Example\CSPractice\Quota\Quota\obj\Debug\Quota.csprojResolveAssemblyReference.cache
+C:\bkmau Repo\Example\CSPractice\Quota\Quota\obj\Debug\Quota.Form1.resources
+C:\bkmau Repo\Example\CSPractice\Quota\Quota\obj\Debug\Quota.Properties.Resources.resources
+C:\bkmau Repo\Example\CSPractice\Quota\Quota\obj\Debug\Quota.csproj.GenerateResource.Cache
+C:\bkmau Repo\Example\CSPractice\Quota\Quota\obj\Debug\Quota.exe
+C:\bkmau Repo\Example\CSPractice\Quota\Quota\obj\Debug\Quota.pdb
