@@ -1,0 +1,9 @@
+C:\bkmau Repo\Example\CSPractice\Score\Score\bin\Debug\Score.exe.config
+C:\bkmau Repo\Example\CSPractice\Score\Score\bin\Debug\Score.exe
+C:\bkmau Repo\Example\CSPractice\Score\Score\bin\Debug\Score.pdb
+C:\bkmau Repo\Example\CSPractice\Score\Score\obj\Debug\Score.csprojResolveAssemblyReference.cache
+C:\bkmau Repo\Example\CSPractice\Score\Score\obj\Debug\Score.Form1.resources
+C:\bkmau Repo\Example\CSPractice\Score\Score\obj\Debug\Score.Properties.Resources.resources
+C:\bkmau Repo\Example\CSPractice\Score\Score\obj\Debug\Score.csproj.GenerateResource.Cache
+C:\bkmau Repo\Example\CSPractice\Score\Score\obj\Debug\Score.exe
+C:\bkmau Repo\Example\CSPractice\Score\Score\obj\Debug\Score.pdb

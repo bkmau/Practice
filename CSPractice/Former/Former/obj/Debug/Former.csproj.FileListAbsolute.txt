@@ -1,0 +1,9 @@
+C:\bkmau Repo\Example\CSPractice\Former\Former\bin\Debug\Former.exe.config
+C:\bkmau Repo\Example\CSPractice\Former\Former\bin\Debug\Former.exe
+C:\bkmau Repo\Example\CSPractice\Former\Former\bin\Debug\Former.pdb
+C:\bkmau Repo\Example\CSPractice\Former\Former\obj\Debug\Former.csprojResolveAssemblyReference.cache
+C:\bkmau Repo\Example\CSPractice\Former\Former\obj\Debug\Former.Form1.resources
+C:\bkmau Repo\Example\CSPractice\Former\Former\obj\Debug\Former.Properties.Resources.resources
+C:\bkmau Repo\Example\CSPractice\Former\Former\obj\Debug\Former.csproj.GenerateResource.Cache
+C:\bkmau Repo\Example\CSPractice\Former\Former\obj\Debug\Former.exe
+C:\bkmau Repo\Example\CSPractice\Former\Former\obj\Debug\Former.pdb
