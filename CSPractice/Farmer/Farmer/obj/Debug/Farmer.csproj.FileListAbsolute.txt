@@ -1,0 +1,9 @@
+C:\bkmau Repo\Example\CSPractice\Farmer\Farmer\bin\Debug\Farmer.exe.config
+C:\bkmau Repo\Example\CSPractice\Farmer\Farmer\bin\Debug\Farmer.exe
+C:\bkmau Repo\Example\CSPractice\Farmer\Farmer\bin\Debug\Farmer.pdb
+C:\bkmau Repo\Example\CSPractice\Farmer\Farmer\obj\Debug\Farmer.csprojResolveAssemblyReference.cache
+C:\bkmau Repo\Example\CSPractice\Farmer\Farmer\obj\Debug\Farmer.Form1.resources
+C:\bkmau Repo\Example\CSPractice\Farmer\Farmer\obj\Debug\Farmer.Properties.Resources.resources
+C:\bkmau Repo\Example\CSPractice\Farmer\Farmer\obj\Debug\Farmer.csproj.GenerateResource.Cache
+C:\bkmau Repo\Example\CSPractice\Farmer\Farmer\obj\Debug\Farmer.exe
+C:\bkmau Repo\Example\CSPractice\Farmer\Farmer\obj\Debug\Farmer.pdb
