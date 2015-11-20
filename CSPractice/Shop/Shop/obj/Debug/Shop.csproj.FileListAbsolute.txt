@@ -1,0 +1,11 @@
+C:\bkmau Repo\Example\CSPractice\Shop\Shop\bin\Debug\Shop.exe.config
+C:\bkmau Repo\Example\CSPractice\Shop\Shop\bin\Debug\Shop.exe
+C:\bkmau Repo\Example\CSPractice\Shop\Shop\bin\Debug\Shop.pdb
+C:\bkmau Repo\Example\CSPractice\Shop\Shop\obj\Debug\Shop.csprojResolveAssemblyReference.cache
+C:\bkmau Repo\Example\CSPractice\Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+C:\bkmau Repo\Example\CSPractice\Shop\Shop\obj\Debug\Shop.csproj.GenerateResource.Cache
+C:\bkmau Repo\Example\CSPractice\Shop\Shop\obj\Debug\Shop.exe
+C:\bkmau Repo\Example\CSPractice\Shop\Shop\obj\Debug\Shop.pdb
+C:\bkmau Repo\Example\CSPractice\Shop\Shop\obj\Debug\Shop.Cashier.resources
+C:\bkmau Repo\Example\CSPractice\Shop\Shop\obj\Debug\Shop.MainForm.resources
+C:\bkmau Repo\Example\CSPractice\Shop\Shop\obj\Debug\Shop.Product.resources

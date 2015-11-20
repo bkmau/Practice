@@ -1,6 +1,0 @@
-package base2;
-
-public interface IShape {
-	public abstract double Area();
-	public abstract double Perimeter();
-}
