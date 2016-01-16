@@ -16,5 +16,16 @@ namespace Shop
         {
             InitializeComponent();
         }
+
+        private void Warehouse_Load(object sender, EventArgs e)
+        {
+            lblUnit_1.Text = "";
+
+            txtUnit_2.Visible = false;
+            lblUnit_2.Visible = false;
+
+            lblCostUnit.Text = "";
+            lblPriceUnit.Text = "";
+        }
     }
 }

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+	<item>
+		<name>舒跑</name>
+		<unit>
+			<1>罐</1>
+			<2 carry="24">箱</2>
+		</unit>
+		<stock unit="1">13</stock>
+		<stock unit="2">40</stock>
+		<cost unit="1">12</cost>
+		<price unit="1">18</price>
+	</item>
+	<item>
+		<name>黑松汽水</name>
+		<unit>
+			<1>罐</1>
+			<2 carry="24">箱</2>
+		</unit>
+		<stock unit="1">0</stock>
+		<stock unit="2">40</stock>
+		<cost unit="1">14</cost>
+		<price unit="2">20</price>
+	</item>	
+	<item>
+		<name>多喝水</name>
+		<unit>
+			<1>瓶</1>
+			<2 carry="12">箱</2>
+		</unit>
+		<stock unit="1">11</stock>
+		<stock unit="2">50</stock>
+		<cost unit="1">12</cost>
+		<price unit="1">18</price>
+	</item>	
+	<item>
+		<name>青箭口香糖</name>
+		<unit>包</unit>
+		<stock>100</stock>
+		<cost>6</cost>
+		<price>12</price>
+	</item>	
+	<item>
+		<name>王子麵</name>
+		<unit>包</unit>
+		<stock>500</stock>
+		<cost>4</cost>
+		<price>6</price>
+	</item>	
+	<item>
+		<name>聯合報</name>
+		<unit>份</unit>
+		<stock>30</stock>
+		<cost>8</cost>
+		<price>10</price>
+	</item>
+</product>

@@ -8,4 +8,4 @@ C:\bkmau Repo\Example\CSPractice\Shop\Shop\obj\Debug\Shop.exe
 C:\bkmau Repo\Example\CSPractice\Shop\Shop\obj\Debug\Shop.pdb
 C:\bkmau Repo\Example\CSPractice\Shop\Shop\obj\Debug\Shop.Cashier.resources
 C:\bkmau Repo\Example\CSPractice\Shop\Shop\obj\Debug\Shop.MainForm.resources
-C:\bkmau Repo\Example\CSPractice\Shop\Shop\obj\Debug\Shop.Product.resources
+C:\bkmau Repo\Example\CSPractice\Shop\Shop\obj\Debug\Shop.Warehouse.resources

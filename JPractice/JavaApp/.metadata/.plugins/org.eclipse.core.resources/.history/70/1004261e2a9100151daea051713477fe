@@ -1,0 +1,8 @@
+package com.cloudgarden.resource;
+
+public class Snippet {
+	public static void main(String[] args) {
+		exercise_10
+	}
+}
+
