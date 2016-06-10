@@ -16,17 +16,24 @@ buy one and sell one share of the stock), design an algorithm to find the maximu
 則最大利潤為 0 (因為買了一定賠)
 """
 
-
-list = [3, 2, 6, 5, 6, 1, 2, 6, 1]
-
+# list = [3, 2, 6, 5, 6, 1, 2, 6, 1]
+list = [2, 1]
 list2 = [x - max(list) for x in list]
+profit = 0
+day_to_buy = 0
+day_to_sell = 0
 
-maxIndex = 0
 for i, j in enumerate(list2):
     if j == 0:
-        if i > maxIndex:
-            maxIndex = i
+        if i > day_to_sell:
+            day_to_sell = i
+if day_to_sell != 0:
+    profit = abs(min(list2[0:day_to_sell]))
+    day_to_buy = list2.index(min(list2[0:day_to_sell])) + 1
 
-print("To earn the best profit, {}, of stock, as buy at day {} and sell at day {}".format(
-    abs(min(list2[0:maxIndex])), list2.index(min(list2[0:maxIndex])) + 1, maxIndex + 1
-))
+if profit == 0:
+    print("Can't get any profit in this investment")
+else:
+    print("To earn the best profit, {}, of stock, as buy at day {} and sell at day {}".format(
+        profit, day_to_buy, day_to_sell
+    ))
