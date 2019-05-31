@@ -123,8 +123,7 @@ dmypy.json
 .pyre/
 
 # ignore IDE Pycharm setting file
-blog/.idea/*
-.idea/*
+.idea/
 
 # secure data
 secure_data.py
@@ -132,3 +131,5 @@ secure_data.py
 # MySQL Option file
 *.cnf
 
+# django migration
+migrations/
