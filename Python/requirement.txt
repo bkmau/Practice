@@ -23,7 +23,7 @@ query-string==2019.4.13
 request==2019.4.13
 requests==2.22.0
 sqlparse==0.3.0
-urllib3==1.25.2
+urllib3==1.26.5
 virtualenv==16.4.1
 xlrd==1.2.0
 xlutils==2.0.0
