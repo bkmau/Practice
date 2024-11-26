@@ -18,7 +18,7 @@ pyodbc==4.0.24
 PyQt5==5.11.2
 PyQt5-sip==4.19.12
 pytz==2017.2
-pywin32==223
+pywin32==301
 query-string==2019.4.13
 request==2019.4.13
 requests==2.22.0
